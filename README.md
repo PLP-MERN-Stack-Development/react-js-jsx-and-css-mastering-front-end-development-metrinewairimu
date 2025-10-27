@@ -23,14 +23,21 @@ A modern, responsive React application for efficient task management with seamle
 
 ## 🚀 Live Demo
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/taskmaster-pro)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-metrinewairimu)
 
-**Live Application**: [https://your-deployed-app.vercel.app](https://your-deployed-app.vercel.app)
+**Live Application**: [https://mernweek3.netlify.app/](https://mernweek3.netlify.app/)
 
 ## 📸 Screenshots
 
 ### Light Theme
-<<<<<<< HEAD
+![Light Theme](./Screenshots/Screenshot%202025-10-27%20223329.png)
+
+### Dark Theme
+![Dark Theme](./Screenshots/Screenshot%202025-10-27%20223445.png)
+=======
+## 📸 Screenshots
+
+### Light Theme
 ![Light Theme](./Screenshots/Screenshot%202025-10-27%20223329.png)
 
 ### Dark Theme
