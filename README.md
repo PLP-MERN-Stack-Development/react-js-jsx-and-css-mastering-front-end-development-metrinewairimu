@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 - **Metrine** - Initial work - (https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-metrinewairimu.git)
->>>>>>> 516e0e5004d4c7ce8939fa52be40fb2b98986072
+
 
 ## 🙏 Acknowledgments
 
