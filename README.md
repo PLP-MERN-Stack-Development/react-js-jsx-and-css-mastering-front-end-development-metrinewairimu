@@ -30,10 +30,20 @@ A modern, responsive React application for efficient task management with seamle
 ## 📸 Screenshots
 
 ### Light Theme
+<<<<<<< HEAD
 ![Light Theme](./Screenshots/Screenshot%202025-10-27%20223329.png)
 
 ### Dark Theme
 ![Dark Theme](./Screenshots/Screenshot%202025-10-27%20223445.png)
+=======
+![Light Theme](./screenshots/light-theme.png)
+
+### Dark Theme
+![Dark Theme](./screenshots/dark-theme.png)
+
+### Mobile View
+![Mobile View](./screenshots/mobile-view.png)
+>>>>>>> 516e0e5004d4c7ce8939fa52be40fb2b98986072
 
 ## 🛠️ Tech Stack
 
@@ -198,7 +208,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
+<<<<<<< HEAD
 - **Your Name** - Initial work - [YourGitHub](https://github.com/your-username)
+=======
+- **Metrine** - Initial work - (https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-metrinewairimu.git)
+>>>>>>> 516e0e5004d4c7ce8939fa52be40fb2b98986072
 
 ## 🙏 Acknowledgments
 
@@ -211,7 +225,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 If you have any questions or run into issues, please:
 
+<<<<<<< HEAD
 - Check the [Issues](https://github.com/your-username/taskmaster-pro/issues) page
+=======
+- Check the [Issues](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-metrinewairimu.git) page
+>>>>>>> 516e0e5004d4c7ce8939fa52be40fb2b98986072
 - Create a new issue with detailed description
 - Contact: your.email@example.com
 
