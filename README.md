@@ -218,7 +218,7 @@ If you have any questions or run into issues, please:
 
 
 - Check the [Issues](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-metrinewairimu.git) page
->>>>>>> 516e0e5004d4c7ce8939fa52be40fb2b98986072
+
 - Create a new issue with detailed description
 - Contact: wairimu.metrine5@gmail.com
 
