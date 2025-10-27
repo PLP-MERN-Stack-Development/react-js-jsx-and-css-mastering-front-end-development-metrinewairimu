@@ -201,7 +201,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
-- **Your Name** - Initial work - [YourGitHub](https://github.com/your-username)
+- **Metrine** - Initial work - (https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-metrinewairimu.git)
 
 ## 🙏 Acknowledgments
 
@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 If you have any questions or run into issues, please:
 
-- Check the [Issues](https://github.com/your-username/taskmaster-pro/issues) page
+- Check the [Issues](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-metrinewairimu.git) page
 - Create a new issue with detailed description
 - Contact: your.email@example.com
 
