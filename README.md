@@ -34,14 +34,6 @@ A modern, responsive React application for efficient task management with seamle
 
 ### Dark Theme
 ![Dark Theme](./Screenshots/Screenshot%202025-10-27%20223445.png)
-=======
-## 📸 Screenshots
-
-### Light Theme
-![Light Theme](./Screenshots/Screenshot%202025-10-27%20223329.png)
-
-### Dark Theme
-![Dark Theme](./Screenshots/Screenshot%202025-10-27%20223445.png)
 
 
 ## 🛠️ Tech Stack
